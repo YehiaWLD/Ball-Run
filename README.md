@@ -25,6 +25,9 @@ _Installer:_ `ballrunx64_windows.exe`
 _build:_ `coming soon!`  
 
 
+### License 
+[ULA License file](https://github.com/YehiaWLD/Ball-Run/blob/main/LICENSE)
+
 
 ## <div align="center">Contact</div>
 
