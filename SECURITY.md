@@ -7,8 +7,8 @@ these are the supported versions for secuirty updates and patches
 | Version | Supported          |
 | ------- | ------------------ |
 | 0.9.5   | :white_check_mark: |
-| 0.9.4   | :x:                |
-| 0.9.3  | :white_check_mark: |
+| 0.9.4   | :white_check_mark:                |
+| 0.9.3  | :x: |
 | < 0.9.3  | :x:                |
 
 ## Reporting a Vulnerability
